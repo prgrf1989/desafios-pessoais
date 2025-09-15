@@ -2,6 +2,7 @@
 Repositório com fim de estudo de desafios em projetos como livros, cursos e bootcamps.
 
 ## Links Úteis
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Syntaxe Básica de Markdown</a><br>
 [Syntaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}<br>
 [Referência HTML com suporte para navegadores](https://www.w3schools.com/tags/ref_html_browsersupport.asp){:target="_blank"}<br>
 [Códigos de símbolos em HTML](https://symbl.cc/pt/html-entities/){:target="_blank"}<br>
